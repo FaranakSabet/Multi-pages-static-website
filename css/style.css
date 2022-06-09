@@ -1,22 +1,21 @@
-body{
-    background-color:rgb(241, 249, 209)
+body {
+  background-color: rgb(241, 249, 209);
 }
 
-
-h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-p{
-    text-align: center;
+p {
+  text-align: center;
 }
-footer{
-    text-align: center;
+footer {
+  text-align: center;
 }
-footer a{
-    margin: 0 10px;
-    color: green;
+footer a {
+  margin: 0 10px;
+  color: green;
 }
-.croissant{
+.croissant {
   display: block;
   margin-left: auto;
   margin-right: auto;
